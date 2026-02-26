@@ -2,7 +2,13 @@
 
 ## Resources
 
-### Education
+### git
+
+![Triangular workflows](https://github.blog/wp-content/uploads/2015/07/5dcdcae4-354a-11e5-9f82-915914fad4f7.png)
+
+- https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
+### GitHub for Education
 
 - https://github.com/education/
 - https://education.github.com/pack/ (includes GitHub Pro!)
